@@ -44,7 +44,7 @@ https://github.com/Nisarga-Prabhakar/ecommerce-sales-analysis
 
 ## 📫 Connect with Me
 
-🔗 LinkedIn: (paste your link here)
+🔗 LinkedIn: (www.linkedin.com/in/connectwithnisargaprabhakar)
 
 ---
 
