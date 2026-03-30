@@ -13,32 +13,28 @@
 🔹 Delivered insights for better business decision-making  
 
 👉 🔗 Project Link:  
-https://github.com/Nisarga-Prabhakar/ecommerce-sales-analysis  
+https://github.com/Nisarga-Prabhakar/ecommerce-sales-analysis 
+
+### 📈Global Airbnb Performance Dashboard
+
 
 ---
 
 ## 🛠 Skills
 
 - 📊 Advanced Excel (Data Cleaning, Pivot Tables & charts, Dashboards)  
-- 📈 Power BI (Learning)  
-- 🗄 SQL (Learning)  
-- 📉 Data Analysis & Visualization  
-
----
-
-## 📈 Currently Learning
-
-- Power BI (Dashboarding & DAX)  
-- SQL (Queries & Data Extraction)  
-- Real-world Data Analytics Projects  
+- 📈 Power BI (Interactive Reports, DAX, Data Modeling)
+- 🗄  SQL (Joins, Aggregations, Sub-queries, Windows, CTEs)
+- 📉 Python (Numpy, Pandas, Matplotlib)
 
 ---
 
 ## 💡 What I Bring
 
 ✔ Strong analytical thinking  
-✔ Business + data understanding (Commerce background)  
-✔ Ability to convert raw data into meaningful insights  
+✔ Business + data understanding (Commerce background) 
+✔ Ability to convert raw data into meaningful insights
+  Decision making abilities (Treasurer at College Council)
 
 ---
 
@@ -48,4 +44,3 @@ https://github.com/Nisarga-Prabhakar/ecommerce-sales-analysis
 
 ---
 
-⭐ *Actively building projects and improving my data analytics skills*
