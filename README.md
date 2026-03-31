@@ -1,7 +1,7 @@
 # Hi, I'm Nisarga👋
 
-🎯 Data Analyst Enthusiast 
-📊 Hands-on experience in Excel, SQL, Power BI and python 
+- 🎯 Data Analyst Enthusiast 
+- 📊 Hands-on experience in Excel, SQL, Power BI and python 
 
 ---
 
