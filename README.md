@@ -3,7 +3,7 @@
 ## 🎯 Data Analyst | Power BI | SQL
 
 Welcome to my GitHub portfolio!
-I’m passionate about transforming raw data into meaningful insights and building interactive dashboards that support data-driven decision-making.
+*I’m passionate about transforming raw data into meaningful insights and building interactive dashboards that support data-driven decision-making.
 
 ---
 
