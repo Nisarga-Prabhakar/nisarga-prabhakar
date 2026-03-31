@@ -1,6 +1,6 @@
 # Hi, I'm Nisarga👋
 
-🎯 Aspiring Data Analyst   
+🎯 Data Analyst Enthusiast 
 📊 Hands-on experience in Excel, SQL, Power BI and python 
 
 ---
@@ -31,10 +31,10 @@ https://github.com/Nisarga-Prabhakar/ecommerce-sales-analysis
 
 ## 💡 What I Bring
 
-✔ Strong analytical thinking  
-✔ Business + data understanding (Commerce background) 
-✔ Ability to convert raw data into meaningful insights
-  Decision making abilities (Treasurer at College Council)
+- Strong analytical thinking  
+- Business + data understanding (Commerce background) 
+- Ability to convert raw data into meaningful insights
+- Decision making abilities (Treasurer at College Council)
 
 ---
 
