@@ -30,6 +30,12 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 * Identified peak order times, category performance, and sales trends
 * Presented findings in a structured PDF report
 
+### 🍔 Food Delivery SQL Analytics Project
+
+* Analyzed food delivery data using SQL to uncover business insights
+* Explored customer ordering behavior, impact of offers on sales, delivery performance, and revenue trends
+* Used advanced SQL concepts like joins, aggregations, and window functions
+
 ### 📈 E-commerce Sales Dashboard
 
 * Built an interactive dashboard using Advanced Excel
@@ -54,7 +60,7 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 * Strong analytical and problem-solving skills
 * Business + data understanding (Commerce background)
 * Ability to transform raw data into actionable insights
-* Leadership and decision-making experience as Treasurer
+* Leadership and decision-making experience (Treasurer)
 
 ---
 
