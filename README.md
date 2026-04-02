@@ -18,13 +18,13 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 
 ## 📂 Featured Projects
 
-### 📊 Airbnb Performance Dashboard
+### 📊 Global Airbnb Performance Dashboard
 
 * Built an interactive Power BI dashboard analyzing Airbnb listings and reviews
 * Generated insights on pricing, seasonality, and customer satisfaction
 * Applied DAX measures and data modeling techniques
 
-### 🍕 Pizza Sales Analysis (SQL Project)
+### 🍕 Pizza Sales Data Analysis (SQL Project)
 
 * Analyzed sales data using SQL queries
 * Identified peak order times, category performance, and sales trends
