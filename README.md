@@ -36,7 +36,7 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 * Explored customer ordering behavior, impact of offers on sales, delivery performance, and revenue trends
 * Used advanced SQL concepts like joins, aggregations, and window functions
 
-### 📈 E-commerce Sales Dashboard
+### 📈 E-commerce Sales Analysis
 
 * Built an interactive dashboard using Advanced Excel
 * Analyzed KPIs, sales trends, and customer behavior
