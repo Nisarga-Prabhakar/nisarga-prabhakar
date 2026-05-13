@@ -51,7 +51,6 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 * 📊 **Advanced Excel** – Data Cleaning, Pivot Tables, Charts, Dashboards
 * 📈 **Power BI** – Interactive Reports, DAX, Data Modeling
 * 🗄 **SQL** – Joins, Aggregations, Subqueries, Window Functions, CTEs
-* 📉 **Python** – NumPy, Pandas, Matplotlib
 
 ---
 
